@@ -1,0 +1,220 @@
+...
+    Blocking waiting for file lock on package cache
+   Compiling proc-macro2 v1.0.47
+   Compiling unicode-ident v1.0.5
+   Compiling quote v1.0.21
+   Compiling syn v1.0.103
+   Compiling cfg-if v1.0.0
+   Compiling autocfg v1.1.0
+   Compiling libc v0.2.137
+   Compiling log v0.4.17
+   Compiling version_check v0.9.4
+   Compiling once_cell v1.16.0
+   Compiling memchr v2.5.0
+   Compiling itoa v1.0.4
+   Compiling serde_derive v1.0.147
+   Compiling serde v1.0.147
+   Compiling wasm-bindgen-shared v0.2.83
+   Compiling pin-project-lite v0.2.9
+   Compiling bytes v1.3.0
+   Compiling serde_json v1.0.89
+   Compiling fnv v1.0.7
+   Compiling futures-core v0.3.25
+   Compiling bumpalo v3.11.1
+   Compiling ryu v1.0.11
+   Compiling getrandom v0.2.8
+   Compiling wasm-bindgen v0.2.83
+   Compiling typenum v1.15.0
+   Compiling generic-array v0.14.6
+   Compiling tokio v1.20.1
+   Compiling futures-sink v0.3.25
+   Compiling socket2 v0.4.7
+   Compiling num_cpus v1.14.0
+   Compiling mio v0.8.5
+   Compiling slab v0.4.7
+   Compiling indexmap v1.9.2
+   Compiling futures-channel v0.3.25
+   Compiling static_assertions v1.1.0
+   Compiling futures-task v0.3.25
+   Compiling lexical-util v0.8.5
+   Compiling http v0.2.8
+   Compiling hashbrown v0.12.3
+   Compiling futures-util v0.3.25
+   Compiling futures-io v0.3.25
+   Compiling pin-utils v0.1.0
+   Compiling ahash v0.7.6
+   Compiling thiserror v1.0.37
+   Compiling lexical-parse-integer v0.8.6
+   Compiling lexical-write-integer v0.8.5
+   Compiling num-traits v0.2.15
+   Compiling lexical-write-float v0.8.5
+   Compiling lexical-parse-float v0.8.5
+   Compiling unicase v2.6.0
+   Compiling ident_case v1.0.1
+   Compiling httparse v1.8.0
+   Compiling strsim v0.10.0
+   Compiling smallvec v1.10.0
+   Compiling tinyvec_macros v0.1.0
+   Compiling tinyvec v1.6.0
+   Compiling lexical-core v0.8.5
+   Compiling rand_core v0.6.4
+   Compiling num-integer v0.1.45
+   Compiling minimal-lexical v0.2.1
+   Compiling percent-encoding v2.2.0
+   Compiling utf8-width v0.1.6
+   Compiling ppv-lite86 v0.2.17
+   Compiling cpufeatures v0.2.5
+   Compiling form_urlencoded v1.1.0
+   Compiling nom v7.1.1
+   Compiling unicode-normalization v0.1.22
+   Compiling html-escape v0.2.12
+   Compiling rand_chacha v0.3.1
+   Compiling lexical v6.1.1
+   Compiling tracing-core v0.1.30
+   Compiling unicode-xid v0.2.4
+   Compiling async-trait v0.1.58
+   Compiling unicode-bidi v0.3.8
+   Compiling paste v1.0.9
+   Compiling wasm-bindgen-backend v0.2.83
+   Compiling darling_core v0.13.4
+   Compiling idna v0.3.0
+   Compiling tracing v0.1.37
+   Compiling mime_guess v2.0.4
+   Compiling rand v0.8.5
+   Compiling block-buffer v0.9.0
+   Compiling block-buffer v0.10.3
+   Compiling crypto-common v0.1.6
+   Compiling wasm-bindgen-macro-support v0.2.83
+   Compiling digest v0.9.0
+   Compiling aho-corasick v0.7.20
+   Compiling time v0.1.45
+   Compiling base64 v0.13.1
+   Compiling mime v0.3.16
+   Compiling regex-syntax v0.6.28
+   Compiling opaque-debug v0.3.0
+   Compiling iana-time-zone v0.1.53
+   Compiling sha-1 v0.9.8
+   Compiling chrono v0.4.23
+   Compiling digest v0.10.6
+   Compiling url v2.3.1
+   Compiling fastrand v1.8.0
+   Compiling try-lock v0.2.3
+   Compiling httpdate v1.0.2
+   Compiling safemem v0.3.3
+   Compiling fmterr v0.1.1
+   Compiling byteorder v1.4.3
+   Compiling utf-8 v0.7.6
+   Compiling urlencoding v2.1.2
+   Compiling remove_dir_all v0.5.3
+   Compiling buf_redux v0.8.4
+   Compiling tempfile v3.3.0
+   Compiling want v0.3.0
+   Compiling sha1 v0.10.5
+   Compiling http-body v0.4.5
+   Compiling regex v1.7.0
+   Compiling headers-core v0.2.0
+   Compiling twoway v0.1.8
+   Compiling tower-service v0.3.2
+   Compiling bitflags v1.3.2
+   Compiling quick-error v1.2.3
+   Compiling headers v0.3.8
+   Compiling multipart v0.18.0
+   Compiling scoped-tls v1.0.1
+   Compiling wasm-bindgen-macro v0.2.83
+   Compiling tokio-macros v1.8.0
+   Compiling futures-macro v0.3.25
+   Compiling thiserror-impl v1.0.37
+   Compiling darling_macro v0.13.4
+   Compiling sycamore-macro v0.7.1
+   Compiling sycamore-router-macro v0.7.1
+   Compiling darling v0.13.4
+   Compiling pin-project-internal v1.0.12
+   Compiling tungstenite v0.14.0
+   Compiling pin-project v1.0.12
+   Compiling futures-executor v0.3.25
+   Compiling futures v0.3.25
+   Compiling tokio-util v0.7.3
+   Compiling tokio-stream v0.1.11
+   Compiling tokio-tungstenite v0.15.0
+   Compiling tokio-util v0.6.10
+   Compiling h2 v0.3.15
+   Compiling serde_urlencoded v0.7.1
+   Compiling hyper v0.14.23
+   Compiling js-sys v0.3.60
+   Compiling console_error_panic_hook v0.1.7
+   Compiling web-sys v0.3.60
+   Compiling wasm-bindgen-futures v0.4.33
+   Compiling warp-fix-171 v0.3.2
+   Compiling sycamore-reactive v0.7.1
+   Compiling sycamore v0.7.1
+   Compiling rexie v0.2.1
+   Compiling perseus-macro v0.3.6
+   Compiling sycamore-router v0.7.1
+   Compiling perseus v0.3.6
+   Compiling perseus-hw v0.1.0 (/spare/github/wrightmikea/perseus-hw)
+   Compiling perseus-warp v0.3.6
+   Compiling perseus-engine v0.3.6 (/spare/github/wrightmikea/perseus-hw/.perseus)
+   Compiling perseus-engine-server v0.3.6 (/spare/github/wrightmikea/perseus-hw/.perseus/server)
+thread 'rustc' panicked at 'Box<dyn Any>', compiler/rustc_errors/src/lib.rs:1609:13
+stack backtrace:
+   0:     0x7f10010823fa - std::backtrace_rs::backtrace::libunwind::trace::hd0524392467f58f0
+                               at /rustc/c97b539e408ea353f4fde2f9251d598291fec421/library/std/src/../../backtrace/src/backtrace/libunwind.rs:93:5
+   1:     0x7f10010823fa - std::backtrace_rs::backtrace::trace_unsynchronized::h2c36934e8f6e9be3
+                               at /rustc/c97b539e408ea353f4fde2f9251d598291fec421/library/std/src/../../backtrace/src/backtrace/mod.rs:66:5
+   2:     0x7f10010823fa - std::sys_common::backtrace::_print_fmt::he6e9d614e924de03
+                               at /rustc/c97b539e408ea353f4fde2f9251d598291fec421/library/std/src/sys_common/backtrace.rs:65:5
+   3:     0x7f10010823fa - <std::sys_common::backtrace::_print::DisplayBacktrace as core::fmt::Display>::fmt::hd3e316690863bea3
+                               at /rustc/c97b539e408ea353f4fde2f9251d598291fec421/library/std/src/sys_common/backtrace.rs:44:22
+   4:     0x7f0ffcfc912e - core::fmt::write::h61f017e5ff79d11e
+                               at /rustc/c97b539e408ea353f4fde2f9251d598291fec421/library/core/src/fmt/mod.rs:1208:17
+   5:     0x7f10010766c5 - std::io::Write::write_fmt::hdb1cd50f6bc7b937
+                               at /rustc/c97b539e408ea353f4fde2f9251d598291fec421/library/std/src/io/mod.rs:1682:15
+   6:     0x7f10010821c5 - std::sys_common::backtrace::_print::h61ced5a58150f7a3
+                               at /rustc/c97b539e408ea353f4fde2f9251d598291fec421/library/std/src/sys_common/backtrace.rs:47:5
+   7:     0x7f10010821c5 - std::sys_common::backtrace::print::h60ec39223e784f04
+                               at /rustc/c97b539e408ea353f4fde2f9251d598291fec421/library/std/src/sys_common/backtrace.rs:34:9
+   8:     0x7f100108452f - std::panicking::default_hook::{{closure}}::he373ef3cb63d5455
+                               at /rustc/c97b539e408ea353f4fde2f9251d598291fec421/library/std/src/panicking.rs:267:22
+   9:     0x7f100108426b - std::panicking::default_hook::h97c2b49db1cfdaed
+                               at /rustc/c97b539e408ea353f4fde2f9251d598291fec421/library/std/src/panicking.rs:286:9
+  10:     0x7f10002c7904 - <rustc_driver[cc2f53293c3db517]::DEFAULT_HOOK::{closure#0}::{closure#0} as core[7784b4547a4f67b7]::ops::function::FnOnce<(&core[7784b4547a4f67b7]::panic::panic_info::PanicInfo,)>>::call_once::{shim:vtable#0}
+  11:     0x7f1001084d2d - <alloc::boxed::Box<F,A> as core::ops::function::Fn<Args>>::call::h11f431d9b74177b9
+                               at /rustc/c97b539e408ea353f4fde2f9251d598291fec421/library/alloc/src/boxed.rs:2032:9
+  12:     0x7f1001084d2d - std::panicking::rust_panic_with_hook::hd8e47e215c6e1b89
+                               at /rustc/c97b539e408ea353f4fde2f9251d598291fec421/library/std/src/panicking.rs:692:13
+  13:     0x7f1000300271 - std[5baa01868b04d1a3]::panicking::begin_panic::<rustc_errors[18c341fe1ea9d738]::ExplicitBug>::{closure#0}
+  14:     0x7f10002feb36 - std[5baa01868b04d1a3]::sys_common::backtrace::__rust_end_short_backtrace::<std[5baa01868b04d1a3]::panicking::begin_panic<rustc_errors[18c341fe1ea9d738]::ExplicitBug>::{closure#0}, !>
+  15:     0x7f10002f7276 - std[5baa01868b04d1a3]::panicking::begin_panic::<rustc_errors[18c341fe1ea9d738]::ExplicitBug>
+  16:     0x7f10002fa9c6 - std[5baa01868b04d1a3]::panic::panic_any::<rustc_errors[18c341fe1ea9d738]::ExplicitBug>
+  17:     0x7f0fff7a10c6 - <rustc_errors[18c341fe1ea9d738]::HandlerInner>::flush_delayed::<alloc[d3f7d9336efecc1b]::vec::Vec<rustc_errors[18c341fe1ea9d738]::diagnostic::Diagnostic>, &str>
+  18:     0x7f0fff7a03cb - <rustc_errors[18c341fe1ea9d738]::HandlerInner as core[7784b4547a4f67b7]::ops::drop::Drop>::drop
+  19:     0x7f0fff4f518e - core[7784b4547a4f67b7]::ptr::drop_in_place::<rustc_session[b406fd2ad368bf1c]::parse::ParseSess>
+  20:     0x7f0fff4e5e4f - core[7784b4547a4f67b7]::ptr::drop_in_place::<rustc_session[b406fd2ad368bf1c]::session::Session>
+  21:     0x7f0fff4e5b80 - core[7784b4547a4f67b7]::ptr::drop_in_place::<rustc_interface[8ce952d76720d7f3]::interface::Compiler>
+  22:     0x7f0fff4e4c8e - rustc_span[b86697cb2061a584]::with_source_map::<core[7784b4547a4f67b7]::result::Result<(), rustc_errors[18c341fe1ea9d738]::ErrorGuaranteed>, rustc_interface[8ce952d76720d7f3]::interface::run_compiler<core[7784b4547a4f67b7]::result::Result<(), rustc_errors[18c341fe1ea9d738]::ErrorGuaranteed>, rustc_driver[cc2f53293c3db517]::run_compiler::{closure#1}>::{closure#0}::{closure#0}>
+  23:     0x7f0fff4e45c5 - <scoped_tls[8582b173e1e3b793]::ScopedKey<rustc_span[b86697cb2061a584]::SessionGlobals>>::set::<rustc_interface[8ce952d76720d7f3]::interface::run_compiler<core[7784b4547a4f67b7]::result::Result<(), rustc_errors[18c341fe1ea9d738]::ErrorGuaranteed>, rustc_driver[cc2f53293c3db517]::run_compiler::{closure#1}>::{closure#0}, core[7784b4547a4f67b7]::result::Result<(), rustc_errors[18c341fe1ea9d738]::ErrorGuaranteed>>
+  24:     0x7f0fff4e3bb2 - std[5baa01868b04d1a3]::sys_common::backtrace::__rust_begin_short_backtrace::<rustc_interface[8ce952d76720d7f3]::util::run_in_thread_pool_with_globals<rustc_interface[8ce952d76720d7f3]::interface::run_compiler<core[7784b4547a4f67b7]::result::Result<(), rustc_errors[18c341fe1ea9d738]::ErrorGuaranteed>, rustc_driver[cc2f53293c3db517]::run_compiler::{closure#1}>::{closure#0}, core[7784b4547a4f67b7]::result::Result<(), rustc_errors[18c341fe1ea9d738]::ErrorGuaranteed>>::{closure#0}::{closure#0}, core[7784b4547a4f67b7]::result::Result<(), rustc_errors[18c341fe1ea9d738]::ErrorGuaranteed>>
+  25:     0x7f0fff4e38c8 - <<std[5baa01868b04d1a3]::thread::Builder>::spawn_unchecked_<rustc_interface[8ce952d76720d7f3]::util::run_in_thread_pool_with_globals<rustc_interface[8ce952d76720d7f3]::interface::run_compiler<core[7784b4547a4f67b7]::result::Result<(), rustc_errors[18c341fe1ea9d738]::ErrorGuaranteed>, rustc_driver[cc2f53293c3db517]::run_compiler::{closure#1}>::{closure#0}, core[7784b4547a4f67b7]::result::Result<(), rustc_errors[18c341fe1ea9d738]::ErrorGuaranteed>>::{closure#0}::{closure#0}, core[7784b4547a4f67b7]::result::Result<(), rustc_errors[18c341fe1ea9d738]::ErrorGuaranteed>>::{closure#1} as core[7784b4547a4f67b7]::ops::function::FnOnce<()>>::call_once::{shim:vtable#0}
+  26:     0x7f100108bf63 - <alloc::boxed::Box<F,A> as core::ops::function::FnOnce<Args>>::call_once::h2b20690876748913
+                               at /rustc/c97b539e408ea353f4fde2f9251d598291fec421/library/alloc/src/boxed.rs:2000:9
+  27:     0x7f100108bf63 - <alloc::boxed::Box<F,A> as core::ops::function::FnOnce<Args>>::call_once::h41a68158edcb5cdd
+                               at /rustc/c97b539e408ea353f4fde2f9251d598291fec421/library/alloc/src/boxed.rs:2000:9
+  28:     0x7f100108bf63 - std::sys::unix::thread::Thread::new::thread_start::ha0be813dd2c37563
+                               at /rustc/c97b539e408ea353f4fde2f9251d598291fec421/library/std/src/sys/unix/thread.rs:108:17
+  29:     0x7f0ffcd0674d - <unknown>
+  30:     0x7f0ffcd88700 - <unknown>
+  31:                0x0 - <unknown>
+
+note: the compiler unexpectedly panicked. this is a bug.
+
+note: we would appreciate a bug report: https://github.com/rust-lang/rust/issues/new?labels=C-bug%2C+I-ICE%2C+T-compiler&template=ice.md
+
+note: rustc 1.67.0-nightly (c97b539e4 2022-11-30) running on x86_64-unknown-linux-gnu
+
+note: compiler flags: --crate-type bin -C embed-bitcode=no -C debuginfo=2 -C incremental=[REDACTED]
+
+note: some of the compiler flags provided by cargo are hidden
+
+query stack during panic:
+end of query stack
+error: could not compile `perseus-engine-server`; 2 warnings emitted
